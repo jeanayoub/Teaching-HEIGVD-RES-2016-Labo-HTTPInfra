@@ -1,0 +1,15 @@
+{
+  "name": "koa-http",
+  "version": "1.0.0",
+  "description": "Http server by koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Ayoub",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-json": "^1.1.3"
+  }
+}
